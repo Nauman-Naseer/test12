@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome2 to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Nauman-Naseer/test12/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
